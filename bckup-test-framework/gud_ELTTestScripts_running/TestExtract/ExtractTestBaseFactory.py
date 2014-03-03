@@ -1,0 +1,4 @@
+
+class ExtractTestBaseFactory:
+	pass
+

@@ -1,0 +1,3 @@
+
+class LoadRegnTestImpl(object):
+	pass

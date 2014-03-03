@@ -1,0 +1,3 @@
+
+class LoadRegnTestBase(object):
+	pass

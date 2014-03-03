@@ -1,0 +1,3 @@
+
+class ExtractRegnTestImpl(object):
+	pass

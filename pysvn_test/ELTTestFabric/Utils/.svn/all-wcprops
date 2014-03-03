@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/SVNROOT/EDW/!svn/ver/67140/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils
+END
+compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/SVNROOT/EDW/!svn/ver/64271/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/compile.py
+END
+UtilsManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/SVNROOT/EDW/!svn/ver/66918/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/UtilsManager.py
+END
+UtilsNamespace.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/SVNROOT/EDW/!svn/ver/64271/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/UtilsNamespace.py
+END
+TableComparator.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/SVNROOT/EDW/!svn/ver/67140/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/TableComparator.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/SVNROOT/EDW/!svn/ver/64271/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/__init__.py
+END
+StatusCodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/SVNROOT/EDW/!svn/ver/64271/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/StatusCodes.py
+END
+EnvManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/SVNROOT/EDW/!svn/ver/65918/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/EnvManager.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/SVNROOT/EDW/!svn/ver/64271/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/main.py
+END
+FileComparator.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/SVNROOT/EDW/!svn/ver/66918/branches/Common_Framework/CORE-ETL/PythonUtilities/ELTTestFabric/Utils/FileComparator.py
+END

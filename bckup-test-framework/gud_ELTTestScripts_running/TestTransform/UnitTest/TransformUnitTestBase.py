@@ -1,0 +1,4 @@
+from TransformTestBaseFactory import TransformTestBaseFactory
+
+class TransformUnitTestBase(TransformTestBaseFactory):
+	pass

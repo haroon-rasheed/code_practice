@@ -1,0 +1,4 @@
+from TransformTestBaseFactory import TransformTestBaseFactory
+
+class TransformRegnTestBase(TransformTestBaseFactory):
+	pass

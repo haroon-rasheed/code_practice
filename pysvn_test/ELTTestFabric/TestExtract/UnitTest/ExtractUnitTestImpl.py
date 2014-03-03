@@ -1,0 +1,3 @@
+
+class ExtractUnitTestImpl(object):
+	pass
